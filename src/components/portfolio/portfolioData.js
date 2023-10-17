@@ -2,7 +2,7 @@ import Image1 from "../../../public/assets/img/portfolio/senandung.png";
 import Image2 from "../../../public/assets/img/portfolio/project-6.png";
 import Image3 from "../../../public/assets/img/portfolio/Ramadhan.png";
 import Image4 from "../../../public/assets/img/portfolio/salamullah.jpg";
-import Image5 from "../../../public/assets/img/portfolio/project-6.jpg";
+import Image5 from "../../../public/assets/img/portfolio/Logo daarussyifa.png";
 import Image6 from "../../../public/assets/img/portfolio/project-6.jpg";
 import Image7 from "../../../public/assets/img/portfolio/project-7.jpg";
 import Image8 from "../../../public/assets/img/portfolio/project-8.jpg";
