@@ -1,5 +1,5 @@
 import Image1 from "../../../public/assets/img/portfolio/senandung.png";
-import Image2 from "../../../public/assets/img/portfolio/Hayyul-Hadi .png";
+import Image2 from "../../../public/assets/img/portfolio/project-6.png";
 import Image3 from "../../../public/assets/img/portfolio/Ramadhan.png";
 import Image4 from "../../../public/assets/img/portfolio/salamullah.jpg";
 import Image5 from "../../../public/assets/img/portfolio/project-6.jpg";
