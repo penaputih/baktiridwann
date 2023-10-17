@@ -1,10 +1,6 @@
 {
   "/_app": "pages/_app.js",
-  "/preview": "pages/preview.html",
-  "/": "pages/index.html",
-  "/home-rtl": "pages/home-rtl.html",
-  "/home-dark": "pages/home-dark.html",
-  "/404": "pages/404.html",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js"
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
 }
