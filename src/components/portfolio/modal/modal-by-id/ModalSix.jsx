@@ -57,10 +57,14 @@ const ModalSix = ({ modalId, setGetModal }) => {
                   );
                 })}
               </div>
-              <figure className="modal__img">
-                <Image src={item.image} alt="portfolio project demo" />
-              </figure>
-
+              <figure className="modal__img videocontainer">
+                  <iframe
+                    src="https://www.youtube.com/embed/qFIHUYzlHbY?si=FzyqFWEgmQVtlHDn"
+                    title="YouTube video player"
+                    className="youtube-video"
+                    allowFullScreen
+                  ></iframe>
+                </figure>
               <button
                 className="close-modal"
                 onClick={() => setGetModal(false)}

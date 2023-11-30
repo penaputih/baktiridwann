@@ -1,9 +1,9 @@
 import Image1 from "../../../public/assets/img/portfolio/senandung.png";
 import Image2 from "../../../public/assets/img/portfolio/hayyulhadi.png";
-import Image3 from "../../../public/assets/img/portfolio/Ramadhan.png";
-import Image4 from "../../../public/assets/img/portfolio/salamullah.jpg";
+import Image3 from "../../../public/assets/img/portfolio/ramadhan.png";
+import Image4 from "../../../public/assets/img/portfolio/salamullah.png";
 import Image5 from "../../../public/assets/img/portfolio/logods.png";
-import Image6 from "../../../public/assets/img/portfolio/project-6.jpg";
+import Image6 from "../../../public/assets/img/portfolio/nuruliman1.png";
 import Image7 from "../../../public/assets/img/portfolio/project-7.jpg";
 import Image8 from "../../../public/assets/img/portfolio/project-8.jpg";
 import Image9 from "../../../public/assets/img/portfolio/project-9.jpg";
@@ -91,7 +91,22 @@ const PortfolioData = [
       },
     ],
   },
+  {
+    id: 6,
+    type: "youtube project",
+    image: Image6,
+    tag: ["video"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Music Video",
+        client: "YPP Nurul Iman Cibaduyut",
 
+        preview: "YouTube",
+        link: "https://youtu.be/qFIHUYzlHbY?si=FzyqFWEgmQVtlHDn",
+      },
+    ],
+  },
   /*
   {
     id: 6,
