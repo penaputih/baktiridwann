@@ -8,6 +8,8 @@ import Image7 from "../../../public/assets/img/portfolio/project-7.jpg";
 import Image8 from "../../../public/assets/img/portfolio/project-8.jpg";
 import Image9 from "../../../public/assets/img/portfolio/project-9.jpg";
 
+
+
 const PortfolioData = [
   {
     id: 1,
@@ -173,5 +175,10 @@ const PortfolioData = [
     ],
   },*/
 ];
+
+
+const descending = PortfolioData.sort().reverse();
+console.log(descending);
+
 
 export default PortfolioData;
