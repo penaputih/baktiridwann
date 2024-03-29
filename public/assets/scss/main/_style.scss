@@ -70,7 +70,9 @@ body {
 
 .open-sans-font {
   font-family: "Open Sans", sans-serif;
+
 }
+
 img {
   max-width: 100%;
 }
@@ -403,6 +405,28 @@ body.light .header ul.icon-menu li.icon-box:hover i {
   outline: none !important;
   cursor: pointer !important;
 }
+.button2 {
+  overflow: hidden;
+  display: inline-block;
+  line-height: 1.4;
+  border-radius: 35px;
+  border-color: transparent;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: center;
+  cursor: pointer;
+  vertical-align: middle;
+  user-select: none;
+  transition: 250ms all ease-in-out;
+  bottom: 30px;
+  position: relative;
+  z-index: 1;
+  padding: 20px 20px 25px 25px;
+  right: 0px;
+  background-color: transparent;
+  outline: none !important;
+  cursor: pointer !important;
+}
 
 .button .button-text {
   position: relative;
@@ -446,24 +470,40 @@ body.light .header ul.icon-menu li.icon-box:hover i {
   border-radius: 50%;
 }
 
+.button-icon2 {
+  position: absolute;
+  right: -1px;
+  top: -1px;
+  bottom: 0;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  color: #ffffff;
+  border-radius: 50%;
+}
+
 /*** Page Title ***/
 .text-blog {
   font-size: 25px;
   text-align: center;
 }
 .greating {
-  top: 50px;
+  top: 40px;
   position: relative;
+
 }
 .text-loop {
-  font-size: 50px;
+  font-size: 40px;
   background: linear-gradient(to right, rgb(255, 255, 255) , rgba(30, 161, 255, 0.905));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .me {
-  font-size: 60px;
+  font-size: 50px;
   color: rgba(30, 161, 255, 0.905);
 }
 

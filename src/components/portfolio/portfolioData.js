@@ -4,7 +4,7 @@ import Image3 from "../../../public/assets/img/portfolio/ramadhan.png";
 import Image4 from "../../../public/assets/img/portfolio/salamullah.png";
 import Image5 from "../../../public/assets/img/portfolio/logods.png";
 import Image6 from "../../../public/assets/img/portfolio/nuruliman1.png";
-import Image7 from "../../../public/assets/img/portfolio/project-7.jpg";
+import Image7 from "../../../public/assets/img/portfolio/logodiyaulq.png";
 import Image8 from "../../../public/assets/img/portfolio/project-8.jpg";
 import Image9 from "../../../public/assets/img/portfolio/project-9.jpg";
 
@@ -79,13 +79,13 @@ const PortfolioData = [
   
   {
     id: 5,
-    type: "Logo",
+    type: "logo project",
     image: Image5,
     tag: ["logo"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "Logo Daarussyifa",
+        project: "Company Logo Daarussyifa",
         client: "Daarussyifa",
         language: "",
         preview: " ",
@@ -109,39 +109,23 @@ const PortfolioData = [
       },
     ],
   },
-  /*
-  {
-    id: 6,
-    type: "mockup project",
-    image: Image6,
-    tag: ["logo", "mockup"],
-    delayAnimation: "200",
-    modalDetails: [
-      {
-        project: "Website",
-        client: "Themeforest",
-        language: "HTML, CSS, Javascript",
-        preview: "www.pexels.com",
-        link: "https://www.pexels.com",
-      },
-    ],
-  },
   {
     id: 7,
-    type: "facebook project",
+    type: "logo project",
     image: Image7,
     tag: ["logo"],
     delayAnimation: "0",
     modalDetails: [
       {
-        project: "Website",
-        client: "Facebook",
+        project: "Company Logo Diyaul Quran",
+        client: "Diyaul Quran As-sunnah",
         language: "HTML, CSS, Javascript",
-        preview: "www.facebook.com",
-        link: "https://www.facebook.com/ibthemes",
+        preview: "Logo",
+        link: "https://drive.google.com/file/d/1agk2ZygqizqhY21NZ7260nN1bGrkdmMF/view?usp=drive_link",
       },
     ],
   },
+  /*
   {
     id: 8,
     type: "dribble project",

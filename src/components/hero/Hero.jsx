@@ -63,9 +63,23 @@ const Hero = ({data}) => {
              
             <p className="open-sans-font">{heroContent.heroDescriptions}<span className="wave">👋🏼</span></p>
             {/*<button className="button" onClick={toggleModalOne}>
-             <span className="button-text">{heroContent.heroBtn}</span>
+             <span className="button-text">About Me{heroContent.heroBtn}</span>
               <span className="button-icon fa fa-arrow-right"></span>
                 </button>*/}
+
+                <a className="button2" href="https://www.github.com">
+                  <span className="button-icon2 fa fa-github">
+                  </span>
+                </a>
+                <a className="button2" href="https://instagram.com/ridwannur.30">
+                  <span className="button-icon2 fa fa-instagram">
+                  </span>
+                </a>                
+                <a className="button2" href="https://t.me/">
+                  <span className="button-icon2 fa fa-telegram">
+                  </span>
+                </a>
+                
           </div>
         </div>
       </div>

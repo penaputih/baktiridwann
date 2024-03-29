@@ -36,13 +36,6 @@ const ModalSeven = ({ modalId, setGetModal }) => {
                       </div>
                       <div className="col-12 col-sm-6 mb-2">
                         <i className="fa fa-code pr-2"></i>
-                        Language :{" "}
-                        <span className="ft-wt-600 uppercase">
-                          {details.language}
-                        </span>
-                      </div>
-                      <div className="col-12 col-sm-6 mb-2">
-                        <i className="fa fa-external-link pr-2"></i>
                         Preview :{" "}
                         <a
                           className="preview-link"

@@ -5,7 +5,13 @@ const experienceContent = [
     year: "   2023 - Present",
     position: "Camera Person",
     compnayName: "Kulkas-Aang Ridwan",
-    details: `Camera Person di program acara KULKAS (Kuliah Riangkas) Inspira Tv Bandung. `,
+    details: `Camera Person di Program Acara KULKAS (Kuliah Riangkas) Inspira Tv Bandung. `,
+  },
+  {
+    year: "   2019 - 2022",
+    position: "Editor & Video Grapher",
+    compnayName: "MAN 1 Pandeglang",
+    details: `Editor & Video Grapher di Tim Media MAPANSA (MAN 1 PANDEGLANG). `,
   },
 ];
 

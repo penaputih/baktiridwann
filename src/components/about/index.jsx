@@ -39,10 +39,16 @@ const index = () => {
               {/* End personal info */}
 
               <div className="col-12 mt-1">
-                <a className="button" href="#" /*download*/>
-                  <span className="button-text">Download CV</span>
+                <a className="button" href="mailto:ridwannurbakti@gmail.com" /*download*/>
+                  <span className="button-text">  Contact Me</span>
+                  <span className="button-icon fa fa-envelope"></span>
+                </a>
+                {/*<div className="d-inline p-5 g-col-5 d-print-flex">
+                <a className="button" href="#">
+                  <span className="button-text">mail me</span>
                   <span className="button-icon fa fa-download"></span>
                 </a>
+                </div>*/}
               </div>
               {/* End download button */}
             </div>
