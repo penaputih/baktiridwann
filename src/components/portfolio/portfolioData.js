@@ -9,6 +9,7 @@ import Image8 from "../../../public/assets/img/portfolio/imakipsi.png";
 import Image9 from "../../../public/assets/img/portfolio/weddinghenny.png";
 import Image10 from "../../../public/assets/img/portfolio/bisafest.png";
 import Image11 from "../../../public/assets/img/portfolio/uptqselaludihati.png"
+import Image12 from "../../../public/assets/img/portfolio/wisudafebri.png"
 
 
 
@@ -191,6 +192,23 @@ const PortfolioData = [
         client: "UPTQ UIN BANDUNG",
         job: "Editor",
         preview: "Video",
+        link: " ",
+      },
+    ],
+  },
+
+  {
+    id: 12,
+    type: "Photo Project",
+    image: Image12,
+    tag: ["photo"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Graduation Photoshoot",
+        client: "@febrinanrlh_",
+        //job: "Editor",//
+        preview: " ",
         link: " ",
       },
     ],

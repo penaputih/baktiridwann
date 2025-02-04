@@ -3,7 +3,7 @@ import React from 'react';
 import CloseImg from "../../../../../public/assets/img/cancel.svg";
 import PortfolioData from '../../portfolioData';
 
-const ModalEight = ({ modalId, setGetModal }) => {
+const ModalTen = ({ modalId, setGetModal }) => {
   return (
     <div className="modal_portfolio">
       <div
@@ -84,4 +84,4 @@ const ModalEight = ({ modalId, setGetModal }) => {
   );
 };
 
-export default ModalEight;
+export default ModalTen;
