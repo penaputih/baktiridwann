@@ -5,8 +5,10 @@ import Image4 from "../../../public/assets/img/portfolio/salamullah.png";
 import Image5 from "../../../public/assets/img/portfolio/logods.png";
 import Image6 from "../../../public/assets/img/portfolio/nuruliman1.png";
 import Image7 from "../../../public/assets/img/portfolio/logodiyaulq.png";
-import Image8 from "../../../public/assets/img/portfolio/project-8.jpg";
-import Image9 from "../../../public/assets/img/portfolio/project-9.jpg";
+import Image8 from "../../../public/assets/img/portfolio/imakipsi.png";
+import Image9 from "../../../public/assets/img/portfolio/weddinghenny.png";
+import Image10 from "../../../public/assets/img/portfolio/bisafest.png";
+import Image11 from "../../../public/assets/img/portfolio/uptqselaludihati.png"
 
 
 
@@ -21,7 +23,7 @@ const PortfolioData = [
       {
         project: "Music Video",
         client: "MAN 1 Pandeglang",
-        
+        job: "Composer, DOP, Editor",
         preview: "YouTube",
         link: "https://youtu.be/oBK9uUq5gZ8?si=vFOYcU0KVWPg4ZcZ",
       },
@@ -37,7 +39,7 @@ const PortfolioData = [
       {
         project: "Music Video",
         client: "Diggy Studio",
-  
+        job: "Composer, DOP, Editor",
         preview: "YouTube",
         link: "https://youtu.be/K_xptKru3R8?si=Y1w59ep9_7dsvRgN",
       },
@@ -53,7 +55,7 @@ const PortfolioData = [
       {
         project: "Music Video",
         client: "KPI UIN SGD 22",
-
+        job: "Composer, DOP, Editor",
         preview: "YouTube",
         link: "https://youtu.be/5tNWPSl4R4g?si=QhNGM3_Gvke1mwNv",
       },
@@ -69,7 +71,7 @@ const PortfolioData = [
       {
         project: "Music Video",
         client: "Diggy Studio",
-
+        job: "Composer, DOP, Editor",
         preview: "YouTube",
         link: "https://www.youtu.be/8X3JA0YSzdU?si=J324e2rM5dbI_jzA",
       },
@@ -103,7 +105,7 @@ const PortfolioData = [
       {
         project: "Music Video",
         client: "YPP Nurul Iman Cibaduyut",
-
+        job: "Composer, DOP, Editor",
         preview: "YouTube",
         link: "https://youtu.be/qFIHUYzlHbY?si=FzyqFWEgmQVtlHDn",
       },
@@ -119,45 +121,80 @@ const PortfolioData = [
       {
         project: "Company Logo Diyaul Quran",
         client: "Diyaul Quran As-sunnah",
-        language: "HTML, CSS, Javascript",
+        job: " ",
         preview: "Logo",
         link: "https://drive.google.com/file/d/1agk2ZygqizqhY21NZ7260nN1bGrkdmMF/view?usp=drive_link",
       },
     ],
   },
-  /*
+  
   {
     id: 8,
-    type: "dribble project",
+    type: "Video Project",
     image: Image8,
-    tag: ["graphic design"],
+    tag: ["video"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "Website",
-        client: "Dribbble",
-        language: "HTML, CSS, Javascript",
-        preview: "www.dribbble.com",
-        link: "https://dribbble.com/ib-themes",
+        project: "Event Documentation",
+        client: "IMAKIPSI UIN Bandung",
+        //job: "Editor",//
+        preview: "Video",
+        link: " ",
       },
     ],
   },
+
   {
     id: 9,
-    type: "behence project",
+    type: "Video Project",
     image: Image9,
-    tag: ["graphic design", "mockup"],
-    delayAnimation: "200",
+    tag: ["video"],
+    delayAnimation: "100",
     modalDetails: [
       {
-        project: "Website",
-        client: "Behance",
-        language: "HTML, CSS, Javascript",
-        preview: "www.behance.com",
-        link: "https://www.behance.net/ib-themes",
+        project: "Wedding Video",
+        client: "Henny & Tri",
+        //job: "Editor",//
+        preview: "Video",
+        link: " ",
       },
     ],
-  },*/
+  },
+
+  {
+    id: 10,
+    type: "Video Project",
+    image: Image10,
+    tag: ["video"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Event Documentation",
+        client: "KEMENPAR",
+        //job: "Editor",//
+        preview: "Video",
+        link: " ",
+      },
+    ],
+  },
+
+  {
+    id: 11,
+    type: "youtube Project",
+    image: Image11,
+    tag: ["video"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "MV UPTQ Selalu di Hati",
+        client: "UPTQ UIN BANDUNG",
+        job: "Editor",
+        preview: "Video",
+        link: " ",
+      },
+    ],
+  },
 ];
 
 

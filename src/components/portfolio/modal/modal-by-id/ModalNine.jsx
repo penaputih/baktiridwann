@@ -3,7 +3,7 @@ import React from 'react';
 import CloseImg from "../../../../../public/assets/img/cancel.svg";
 import PortfolioData from '../../portfolioData';
 
-const ModalNine = ({ modalId, setGetModal }) => {
+const ModalEight = ({ modalId, setGetModal }) => {
   return (
     <div className="modal_portfolio">
       <div
@@ -34,13 +34,17 @@ const ModalNine = ({ modalId, setGetModal }) => {
                           {details.client}
                         </span>
                       </div>
+                      {/* 
+                      
                       <div className="col-12 col-sm-6 mb-2">
-                        <i className="fa fa-code pr-2"></i>
-                        Language :{" "}
+                        <i className="fa fa-dot-circle-o pr-2"></i>
+                        Jobdesk :{" "}
                         <span className="ft-wt-600 uppercase">
-                          {details.language}
+                          {details.job}
                         </span>
                       </div>
+                    */}
+
                       <div className="col-12 col-sm-6 mb-2">
                         <i className="fa fa-external-link pr-2"></i>
                         Preview :{" "}
@@ -57,8 +61,13 @@ const ModalNine = ({ modalId, setGetModal }) => {
                   );
                 })}
               </div>
-              <figure className="modal__img">
-                <Image src={item.image} alt="portfolio project demo" />
+              <figure className="modal__img videocontainer">
+                <iframe
+                    src="https://drive.google.com/file/d/1X-fyMFAKdAeWGX8gvjiNo1wTorwaivhB/preview"
+                    title="YouTube video player"
+                    className="youtube-video"
+                    allowFullScreen
+                  ></iframe>
               </figure>
 
               <button
@@ -75,4 +84,4 @@ const ModalNine = ({ modalId, setGetModal }) => {
   );
 };
 
-export default ModalNine;
+export default ModalEight;

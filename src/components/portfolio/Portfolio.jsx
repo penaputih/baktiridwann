@@ -21,8 +21,8 @@ const Portfolio = () => {
             <Tab>ALL</Tab>
             <Tab>LOGO</Tab>
             <Tab>VIDEO</Tab>
+            <Tab>PHOTO</Tab>
             <Tab>GRAPHIC DESIGN</Tab>
-            <Tab>MOCKUP</Tab>
           </TabList>
 
           <div className="container">

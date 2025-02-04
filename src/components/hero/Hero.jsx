@@ -71,7 +71,7 @@ const Hero = ({data}) => {
                   <span className="button-icon2 fa fa-github">
                   </span>
                 </a>
-                <a className="button2" href="https://instagram.com/ridwannur.30">
+                <a className="button2" href="https://instagram.com/ridwannurbakti.30">
                   <span className="button-icon2 fa fa-instagram">
                   </span>
                 </a>                

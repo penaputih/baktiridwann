@@ -34,13 +34,17 @@ const ModalEight = ({ modalId, setGetModal }) => {
                           {details.client}
                         </span>
                       </div>
+                      {/* 
+                      
                       <div className="col-12 col-sm-6 mb-2">
-                        <i className="fa fa-code pr-2"></i>
-                        Language :{" "}
+                        <i className="fa fa-dot-circle-o pr-2"></i>
+                        Jobdesk :{" "}
                         <span className="ft-wt-600 uppercase">
-                          {details.language}
+                          {details.job}
                         </span>
                       </div>
+                    */}
+
                       <div className="col-12 col-sm-6 mb-2">
                         <i className="fa fa-external-link pr-2"></i>
                         Preview :{" "}
@@ -57,8 +61,13 @@ const ModalEight = ({ modalId, setGetModal }) => {
                   );
                 })}
               </div>
-              <figure className="modal__img">
-                <Image src={item.image} alt="portfolio project demo" />
+              <figure className="modal__img videocontainer">
+                <iframe
+                    src="https://drive.google.com/file/d/13p_w_5StjAERGCNBFsMTtbHMAiEYdmmL/preview"
+                    title="YouTube video player"
+                    className="youtube-video"
+                    allowFullScreen
+                  ></iframe>
               </figure>
 
               <button

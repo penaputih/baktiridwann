@@ -10,7 +10,7 @@ const personalInfoContent = [
   /*{ meta: "Address", metaInfo: "Lorem ipsum", hasColor: "" },*/
   /*{ meta: "phone", metaInfo: "+62123456789", hasColor: "" },*/
   /*{ meta: "Email", metaInfo: "Mail Me", hasColor: "" },*/
-  { meta: "Instagram", metaInfo: " @ridwannur.30", hasColor: "" },
+  { meta: "Instagram", metaInfo: " @ridwannurbakti.30", hasColor: "" },
   /*{ meta: "languages", metaInfo: "Indonesian", hasColor: "" },*/
 ];
 

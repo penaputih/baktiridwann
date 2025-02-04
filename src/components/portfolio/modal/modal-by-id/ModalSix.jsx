@@ -35,10 +35,10 @@ const ModalSix = ({ modalId, setGetModal }) => {
                         </span>
                       </div>
                       <div className="col-12 col-sm-6 mb-2">
-                        <i className="fa fa-code pr-2"></i>
-                        Language :{" "}
+                        <i className="fa fa-dot-circle-o pr-2"></i>
+                        Jobdesk :{" "}
                         <span className="ft-wt-600 uppercase">
-                          {details.language}
+                          {details.job}
                         </span>
                       </div>
                       <div className="col-12 col-sm-6 mb-2">

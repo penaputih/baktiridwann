@@ -34,8 +34,19 @@ const ModalSeven = ({ modalId, setGetModal }) => {
                           {details.client}
                         </span>
                       </div>
+                      
+                      {/*
                       <div className="col-12 col-sm-6 mb-2">
-                        <i className="fa fa-code pr-2"></i>
+                        <i className="fa fa-dot-circle-o pr-2"></i>
+                        Jobdesk :{" "}
+                        <span className="ft-wt-600 uppercase">
+                          {details.job}
+                        </span>
+                      </div>
+                      */}
+
+                      <div className="col-12 col-sm-6 mb-2">
+                        <i className="fa fa-external-link pr-2"></i>
                         Preview :{" "}
                         <a
                           className="preview-link"

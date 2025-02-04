@@ -25,8 +25,8 @@ const preview = () => {
       <SEO pageTitle={"Preview"} />
       <section className="banner text-center">
         <div className="content">
-          <h1>Tunis</h1>
-          <h2>Personal Portfolio NextJS Template</h2>
+          <h1>Bakti ridwann</h1>
+          <h2>Personal Portfolio</h2>
         </div>
       </section>
       {/* End .banner */}
@@ -92,7 +92,7 @@ const preview = () => {
           <div data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200">
             <a
               className="button"
-              href="https://themeforest.net/item/tunis-personal-portfolio-react-template/34286452"
+              href=" "
               target="_blank"
               rel="noreferrer"
             >
