@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{"/_app":[],"/home-rtl":[],"/":[],"/home-dark":[]},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":false}';
+self.__NEXT_FONT_MANIFEST="{\"pages\":{\"/_app\":[],\"/\":[]},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
