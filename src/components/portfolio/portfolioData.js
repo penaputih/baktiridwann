@@ -8,8 +8,8 @@ import Image7 from "../../../public/assets/img/portfolio/logodiyaulq.png";
 import Image8 from "../../../public/assets/img/portfolio/imakipsi.png";
 import Image9 from "../../../public/assets/img/portfolio/weddinghenny.png";
 import Image10 from "../../../public/assets/img/portfolio/bisafest.png";
-import Image11 from "../../../public/assets/img/portfolio/uptqselaludihati.png"
-import Image12 from "../../../public/assets/img/portfolio/wisudafebri.png"
+import Image11 from "../../../public/assets/img/portfolio/uptqselaludihati.png";
+import Image12 from "../../../public/assets/img/portfolio/wisudafebri.png";
 
 
 

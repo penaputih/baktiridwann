@@ -1,6 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js"
-}
+{"/404":"pages/404.html","/_app":"pages/_app.js","/_error":"pages/_error.js","/home-dark":"pages/home-dark.html","/":"pages/index.html","/home-rtl":"pages/home-rtl.html","/preview":"pages/preview.html","/_document":"pages/_document.js"}
